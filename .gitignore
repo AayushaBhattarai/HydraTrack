@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# React / Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
